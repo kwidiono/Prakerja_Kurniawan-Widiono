@@ -1,0 +1,60 @@
+License Agreement
+
+Please make sure you read this License Agreement (this "Agreement") before you start using the Product. By using the Product, you agree to be bound by and accept the terms and conditions of this Agreement.
+
+THK CO.,LTD. ("THK") hereby grants to you a non-exclusive and non-transferable license to use the Product contained in this package. Copyrights and all other legal rights and titles in relation to any and all data or programs contained in the Product shall be owned by THK or any third party which has granted a license to THK.
+
+1. The Product includes software licensed by ACCOMPANIES A CADENAS GmbH Berliner Allee28 b+c, D-86153 Augsburg ("CADENAS") . (the "Software"). Copyrights and all other legal rights and titles in relation to the Software shall be owned by CADENAS. Please read the CADENAS END USER LICENSE AGREEMENT ("CADENAS License Agreement") attached below as well as this Agreement before you start using the Product. By using the Product, you also agree to be bound by and accept the terms and conditions of the CADENAS License Agreement.
+2. The Product contains data intended exclusively for PARTsolutions ("PARTsolutions data"), and copyrights or other rights in relation to PARTsolutions data are owned by THK. You may use PARTsolutions data only through using the Software. You shall not use either PARTsolutions data or CAD data which has been created by using and building on PARTsolutions data in order to provide them for the use of any business which competes with THK.
+3. You shall not lease the Product for business purposes, or reproduce the Product, or sell, lease, assign, distribute or sub-license the Product to any third party, whether in whole or in part.
+4. Although the Product has been manufactured with greatest care, THK makes no warranties, whether express or implied, including without limitation, warranties as to the accuracy of any information provided through the Product, safety or fitness for use conditions.
+5. In no event shall THK be liable for any direct or indirect damage which has been incurred by the use of the Product.
+
+
+CADENAS End User License Agreement
+
+PLEASE READ THIS LICENSE AGREEMENT PRIOR TO INSTALLING THE SOFTWARE.
+THIS END USER LICENSE AGREEMENT ("AGREEMENT") ACCOMPANIES A CADENAS GmbH Berliner Allee28 b+c, D-86153 Augsburg ("CADENAS") SOFTWARE PRODUCT WHICH INCLUDES GRAPHICS, DIGITAL IMAGERY, VIDEO, SOUND, TEXT, AN ELECTRONIC DATABASE CONTAINING COMPILATIONS OF DESIGN MATERIALS FROM A CADENAS CUSTOMER, RELATED INFORMATION, AND PROGRAMS DELIVERED ON A CD-ROM, DVD OR OTHER DIGITAL MEDIA ("SOFTWARE").
+THIS COPY OF THE SOFTWARE IS LICENSED TO YOU AS THE END USER ("YOU" OR "YOUR" OR "END USER") AS DOCUMENTED BELOW.
+CADENAS IS WILLING TO LICENSE THE ACCOMPANYING SOFTWARE TO YOU ONLY UPON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS CONTAINED IN THIS LICENSE AGREEMENT AND ANY SUPPLEMENTARY OR UNIQUE LICENSE TERMS INCLUDED HEREWITH.
+READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY BEFORE YOU WILL USE THE SOFTWARE. BY USING THE SOFTWARE, YOU ARE CONSENTING TO BE BOUND BY ALL THE TERMS OF THE LICENSE AGREEMENT.
+IF YOU ARE NOT WILLING TO BE BOUND BY THIS AGREEMENT AND YOU DO NOT AGREE TO ALL ITS TERMS AND CONDITIONS, CLOSE THE SOFTWARE APPLICATION AND RETURN THE SOFTWARE TO CADENAS OR CADENAS CUSTOMER FROM WHOM YOU RECEIVED THE DIGITAL MEDIA WITHIN FOURTEEN (14) DAYS.
+
+YOUR USE OF THE SOFTWARE INDICATES YOUR AGREEMENT TO BE BOUND BY THE LICENSE TERMS SET FORTH BELOW.
+
+Grant of License
+CADENAS grants You a nonexclusive, nontransferable, revocable license to use the Software and related printed or electronic documentation according to the terms and conditions herein.  You may:
+(a)	install the Software for use by a single user on one computer at one location at any one time, or
+(b)	make only one backup copy of the Software.  
+
+You may make copies of the parts and/or assembly data contained in the Software (the "Files") for the exclusive purpose of incorporation into Your own engineering drawings and designs (the "User Models").  CADENAS provides a revocable license for You to utilize the User Models as Your own creations as long as the Files are not the primary source of the value of the User Models. You may not distribute the Files that are supplied with the Software, modified or unmodified, in commercial products for resale or redistribute the Files in the form of a collection or library or as part of a software design tool or as part of a collection or library accessed via any other form of database technology for access internal or external to your company.
+
+Restrictions
+Without prior written consent by CADENAS Group, You are strictly prohibited from doing, directly or indirectly, any of the following:
+
+a)	The transfer of the Software or its corresponding written material as well as disclosing the information to a third party, 
+b)	The duplication, modification, translation, development, recompilation or reassembling of the Software,
+c)	The drawing, duplication or distribution of works sourced from the Software,
+d)	The duplication, translation, modification of the written material or the drawing, duplication or distribution of works sourced from it except for internal purposes or in case of legal requirements. 
+e)	The copying of the CAD files for the reproduction of more than one copy or the systematic collection or composition of a new database, PDM system or a system comparable with PDM. 
+f)	Any duplication of this data is strictly prohibited, for any purpose, commercial or otherwise.
+g)	The translation, processing, arrangement and any other conversion of the downloaded database files will require the permission of CADENAS. 
+h)	The renaming of the CAD files contents is strictly prohibited.
+i)	The removal of any proprietary notices, labels, or marks from the Software or Documentation
+j)	Using the Software outside of the country in which it was delivered
+
+Copyright
+Title and copyrights to the Software and accompanying materials and any copies made by you remain with CADENAS.
+Unauthorized copying of the Software or documentation, or failure to comply with the above restrictions, will result in automatic termination of this Agreement.  Unauthorized duplication of the Software constitutes copyright infringement and in the United States is punishable in a federal criminal action by a fine of up to US$250,000 and imprisonment for up to five (5) years.  In addition, federal civil penalties allow the recovery of actual damages based on the number of copies produced or liquidated damages of up to US$100,000 for willful copyright infringement.
+
+Limited Warranty
+CADENAS warrants that, for a period of thirty (30) days from the date of delivery to You as evidenced by a copy of the packing slip, the digital media on which the Software is furnished under normal use will be free from defects in materials and workmanship.  EXCEPT FOR THE ABOVE EXPRESS LIMITED WARRANTY, CADENAS MAKE, AND YOU RECEIVE, NO WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR IN ANY COMMUNICATION WITH YOU; AND CADENAS SPECIFICALLY DISCLAIM ANY OTHER WARRANTY INCLUDING THE IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  CADENAS DOES NOT WARRANT THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE.
+
+Limitation of Liability
+IN NO EVENT WILL CADENAS BE LIABLE FOR ANY DAMAGES, WHETHER ARISING FROM TORT OR CONTRACT, INCLUDING LOSS OF DATA, LOST PROFITS, COST OF COVER, OR OTHER SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR INDIRECT DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM OR ACCOMPANYING DOCUMENTATION, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY.  THIS LIMITATION WILL APPLY EVEN IF CADENAS GMBH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+General
+This Agreement shall be governed by the law of the Federal Republic of Germany.  This Agreement is the entire Agreement and supersedes any other communications or advertising with respect to the Software and Documentation.  
+In the event that any provision hereof is found invalid or unenforceable pursuant to judicial decree or decision, the remainder of this Agreement shall remain valid and enforceable according to its terms.
+Place of fulfillment of all mutual obligations of performance, as well as place of jurisdiction for all claims originated by the legal relations of the underlying agreement is the legal domicile of CADENAS GmbH, Germany.
+
