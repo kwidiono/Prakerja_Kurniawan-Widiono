@@ -1,0 +1,10 @@
+This DVD was scanned with Avast Antivirus
+----------------------------------------------------------------
+Number of scanned files: 480
+Number of scanned folders: 22
+Number of infected files: 0
+Total size of scanned files: 4153678375
+Virus database: 161026-1, 26.10.16
+Total scan time: 0:0:8
+----------------------------------------------------------------
+No viruses have been found
